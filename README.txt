@@ -1,0 +1,3 @@
+This is a script I wrote to automate opening multiple instances of Minecraft, anywhere from 1-40. Then logging each instance into its own account, then connecting them 
+to their respective proxies. Following this, it would then start another script to start farming. Please input your account details and proxy IPS where the comments 
+indicate. Please also indicate how many sugar cane accounts you are using, along with how many nether wart accounts you are using.
